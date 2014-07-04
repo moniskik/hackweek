@@ -1,4 +1,4 @@
-# Kik Starter Kit [![Kite](https://usekite.com/live-demo-button.png)](https://usekite.com/deploy)
+# Kik Starter Kit [![Kite](https://usekite.com/live-demo-button.png)](https://usekite.com/deploy/yHfKKGPGcD5wFsrxE)
 
 Starter Kit contains the necessary foundations to get you started on building Kik apps. 
 
