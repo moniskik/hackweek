@@ -1,7 +1,7 @@
 Kik Starter Kit
 ==========
 
-[Live Demo](http://testdrive.kik.com/?app=image-search)
+[Live Demo](http://testdrive.kik.com/?app=starter-kit)
 
 Starter Kit contains the necessary foundations to get you started on building Kik apps. 
 
