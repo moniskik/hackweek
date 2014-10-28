@@ -1,5 +1,5 @@
-# Kik Starter Kit
-===========
+Kik Starter Kit
+==========
 
 [Live Demo](http://testdrive.kik.com/?app=image-search)
 
